@@ -4,11 +4,11 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>Z:/Karan.Bhamra/Desktop/DinoJump/ThePlatformer/Content/brick.jpg</File>
-    <File>Z:/Karan.Bhamra/Desktop/DinoJump/ThePlatformer/Content/galloper.png</File>
-    <File>Z:/Karan.Bhamra/Desktop/DinoJump/ThePlatformer/Content/mario.png</File>
-    <File>Z:/Karan.Bhamra/Desktop/DinoJump/ThePlatformer/Content/Spikes.png</File>
-    <File>Z:/Karan.Bhamra/Desktop/DinoJump/ThePlatformer/Content/UPDATEDsureBOI.png</File>
+    <File>Z:/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/brick.jpg</File>
+    <File>Z:/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/galloper.png</File>
+    <File>Z:/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/mario.png</File>
+    <File>Z:/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/Spikes.png</File>
+    <File>Z:/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/UPDATEDsureBOI.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

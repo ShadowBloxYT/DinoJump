@@ -12,6 +12,14 @@ namespace DinoJump
     public class Obstacle : Sprite
     {
         public int speed = 5;
+        
+        public Rectangle hitBox
+        {
+            get
+            {
+                return new Rectangle()
+            }
+        }
 
         public Obstacle(Texture2D image, Vector2 position) : base(image, position)
         {
