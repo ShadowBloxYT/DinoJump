@@ -11,7 +11,7 @@ namespace DinoJump
     class AnimatedSprite
     {
         public Texture2D Texture { get; set; }
-        public Vector2 Location { get; set; }
+        public Vector2 Location;
         private int currentFrame;
 
         private TimeSpan timer;
