@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/brick.jpg</File>
+    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/galloper.png</File>
+    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/mario.png</File>
+    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/Spikes.png</File>
+    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/UPDATEDsureBOI.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
