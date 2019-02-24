@@ -26,3 +26,31 @@
 \\GMRDC1\Folder Redirection\myron.lai\Documents\Visual Studio 2017\Projects\ThePlatformer\ThePlatformer\obj\x86\Debug\DinoJump.exe
 \\GMRDC1\Folder Redirection\myron.lai\Documents\Visual Studio 2017\Projects\ThePlatformer\ThePlatformer\obj\x86\Debug\DinoJump.pdb
 \\GMRDC1\Folder Redirection\myron.lai\Documents\Visual Studio 2017\Projects\ThePlatformer\ThePlatformer\bin\Windows\x86\Debug\Content\Spikes.xnb
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\Content\brick.xnb
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\Content\galloper.xnb
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\Content\mario.xnb
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\Content\Spikes.xnb
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\Content\UPDATEDsureBOI.xnb
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\DinoJump.exe
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\DinoJump.pdb
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\MonoGame.Framework.dll
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.dll
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.XInput.dll
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\MonoGame.Framework.xml
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.xml
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\bin\Windows\x86\Debug\SharpDX.XInput.xml
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.csproj.CopyComplete
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.exe
+\\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.pdb

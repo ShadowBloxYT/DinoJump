@@ -93,7 +93,7 @@ namespace DinoJump
             {
                 dino.Location.Y = 720;
                 isJumping = false;
-                gravity = 3.0f;
+                gravity = 5.0f;
             }
 
             KeyboardState ks = Keyboard.GetState();
