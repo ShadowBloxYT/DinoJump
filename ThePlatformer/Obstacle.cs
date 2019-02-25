@@ -17,7 +17,7 @@ namespace DinoJump
         {
             get
             {
-                return new Rectangle()
+                return new Rectangle((int)Position.X, (int)Position.Y, Image.Width, Image.Height);
             }
         }
 

@@ -17,7 +17,16 @@ namespace DinoJump
         private TimeSpan timer;
         public TimeSpan UpdateRate;
 
-        List<Rectangle> frames = new List<Rectangle>();  
+        List<Rectangle> frames = new List<Rectangle>(); 
+        
+        public Rectangle hitBox
+        {
+            get
+            {
+                return new Rectangle((int)Location.X, (int)Location.Y, Texture.Width, Texture.Height);
+            }
+        }
+
 
         public AnimatedSprite(Texture2D tex, Vector2 loc, int updateRate)
         {

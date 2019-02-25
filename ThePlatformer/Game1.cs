@@ -89,6 +89,16 @@ namespace DinoJump
             //    dino.Location.Y += 3;
             //}
 
+            for (int i = 0; i < obstacles.Count; i++)
+            {
+                if (dino.hitBox.Intersects(obstacles[i].hitBox))
+                {
+
+                }
+            }
+            
+            
+
             if (dino.Location.Y > 720)
             {
                 dino.Location.Y = 720;

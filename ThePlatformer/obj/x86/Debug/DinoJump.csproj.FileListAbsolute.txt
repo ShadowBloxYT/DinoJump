@@ -54,3 +54,7 @@
 \\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.csproj.CopyComplete
 \\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.exe
 \\GMRDC1\Folder Redirection\Karan.Bhamra\Desktop\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.pdb
+C:\Users\minds\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.csprojAssemblyReference.cache
+C:\Users\minds\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.csproj.CoreCompileInputs.cache
+C:\Users\minds\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.exe
+C:\Users\minds\DinoJump\ThePlatformer\obj\x86\Debug\DinoJump.pdb
