@@ -11,7 +11,6 @@ namespace DinoJump
 {
     public class Obstacle : Sprite
     {
-        public int speed = 5;
         
         public Rectangle hitBox
         {
@@ -28,7 +27,7 @@ namespace DinoJump
 
         public void Update()
         {
-            Position.X -= speed;
+            Position.X -= Game1.speedGlobal;
         }
     }
 }

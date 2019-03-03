@@ -4,14 +4,16 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/brick.jpg</File>
-    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/galloper.png</File>
-    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/mario.png</File>
-    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/Spikes.png</File>
-    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/UPDATEDsureBOI.png</File>
+    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/brick.jpg</File>
+    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/File.spritefont</File>
+    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/galloper.png</File>
+    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/mario.png</File>
+    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/Spikes.png</File>
+    <File>//GMRDC1/Folder Redirection/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/UPDATEDsureBOI.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
+    <File>font.spritefont</File>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

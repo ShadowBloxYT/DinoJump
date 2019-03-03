@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/galloper.png</SourceFile>
-  <SourceTime>2019-02-13T16:20:21.0448089-08:00</SourceTime>
-  <DestFile>//GMRDC1/Folder Redirection/myron.lai/Documents/Visual Studio 2017/Projects/ThePlatformer/ThePlatformer/Content/bin/Windows/galloper.xnb</DestFile>
-  <DestTime>2019-02-24T11:30:12.7362145-08:00</DestTime>
+  <SourceFile>//GMRDC1/Folder Redirection/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/galloper.png</SourceFile>
+  <SourceTime>2019-02-26T16:02:22.7865544-08:00</SourceTime>
+  <DestFile>//GMRDC1/Folder Redirection/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/bin/Windows/galloper.xnb</DestFile>
+  <DestTime>2019-02-26T16:35:59.801503-08:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T08:35:54-08:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

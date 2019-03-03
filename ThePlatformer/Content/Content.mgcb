@@ -25,6 +25,13 @@
 /processorParam:TextureFormat=Color
 /build:brick.jpg
 
+#begin File.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:File.spritefont;font.spritefont
+
 #begin galloper.png
 /importer:TextureImporter
 /processor:TextureProcessor

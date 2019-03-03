@@ -23,7 +23,7 @@ namespace DinoJump
         {
             get
             {
-                return new Rectangle((int)Location.X, (int)Location.Y, Texture.Width, Texture.Height);
+                return new Rectangle((int)Location.X, (int)Location.Y, frames[currentFrame].Width, frames[currentFrame].Height);
             }
         }
 
@@ -64,6 +64,8 @@ namespace DinoJump
             Rectangle destinationRectangle = new Rectangle((int)Location.X, (int)Location.Y, sourceRectangle.Width, sourceRectangle.Height);
 
             spriteBatch.Draw(Texture, destinationRectangle, sourceRectangle, Color.White);
+
+            //spriteBatch.Draw(Game1.pixel, hitBox, Color.Red * 0.40f);
         }
     }
 }

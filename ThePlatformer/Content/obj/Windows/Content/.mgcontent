@@ -4,14 +4,16 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/minds/DinoJump/ThePlatformer/Content/brick.jpg</File>
-    <File>C:/Users/minds/DinoJump/ThePlatformer/Content/galloper.png</File>
-    <File>C:/Users/minds/DinoJump/ThePlatformer/Content/mario.png</File>
-    <File>C:/Users/minds/DinoJump/ThePlatformer/Content/Spikes.png</File>
-    <File>C:/Users/minds/DinoJump/ThePlatformer/Content/UPDATEDsureBOI.png</File>
+    <File>Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/brick.jpg</File>
+    <File>Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/File.spritefont</File>
+    <File>Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/galloper.png</File>
+    <File>Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/mario.png</File>
+    <File>Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/Spikes.png</File>
+    <File>Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/UPDATEDsureBOI.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
+    <File>font.spritefont</File>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

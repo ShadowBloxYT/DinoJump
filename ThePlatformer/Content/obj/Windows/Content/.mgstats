@@ -1,6 +1,7 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/minds/DinoJump/ThePlatformer/Content/brick.jpg","C:/Users/minds/DinoJump/ThePlatformer/Content/bin/Windows/Content/brick.xnb","TextureProcessor","Texture2DContent",10813,39685,1.512825
-"C:/Users/minds/DinoJump/ThePlatformer/Content/galloper.png","C:/Users/minds/DinoJump/ThePlatformer/Content/bin/Windows/Content/galloper.xnb","TextureProcessor","Texture2DContent",15848,700085,0.0665806
-"C:/Users/minds/DinoJump/ThePlatformer/Content/mario.png","C:/Users/minds/DinoJump/ThePlatformer/Content/bin/Windows/Content/mario.xnb","TextureProcessor","Texture2DContent",87527,5778085,0.2014557
-"C:/Users/minds/DinoJump/ThePlatformer/Content/Spikes.png","C:/Users/minds/DinoJump/ThePlatformer/Content/bin/Windows/Content/Spikes.xnb","TextureProcessor","Texture2DContent",2537,6485,0.0179575
-"C:/Users/minds/DinoJump/ThePlatformer/Content/UPDATEDsureBOI.png","C:/Users/minds/DinoJump/ThePlatformer/Content/bin/Windows/Content/UPDATEDsureBOI.xnb","TextureProcessor","Texture2DContent",6354,197109,0.0458765
+"Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/brick.jpg","Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/bin/Windows/Content/brick.xnb","TextureProcessor","Texture2DContent",10813,39685,0.3906105
+"Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/File.spritefont","Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2009,267281,0.4498463
+"Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/galloper.png","Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/bin/Windows/Content/galloper.xnb","TextureProcessor","Texture2DContent",15848,700085,0.109371
+"Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/mario.png","Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/bin/Windows/Content/mario.xnb","TextureProcessor","Texture2DContent",87527,5778085,0.4902739
+"Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/Spikes.png","Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/bin/Windows/Content/Spikes.xnb","TextureProcessor","Texture2DContent",2537,6485,0.0468756
+"Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/UPDATEDsureBOI.png","Z:/myron.lai/Documents/Github/DinoJump/ThePlatformer/Content/bin/Windows/Content/UPDATEDsureBOI.xnb","TextureProcessor","Texture2DContent",6354,197109,0.1033188
